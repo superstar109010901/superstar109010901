@@ -15,9 +15,6 @@ Passionate about building decentralized applications, smart contracts, and scala
 - 💼 Full-stack expertise with blockchain integration  
 - ⚡ Fun fact: Hunting the best hawker food in Singapore between coding sessions! 🥘🍜
 
-![Hawker Centre](https://cdn.i-scmp.com/sites/default/files/d8/images/2020/08/31/shutterstock_1226557684-mobile.jpg)
-
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/your-linkedin) | [Twitter/X](https://twitter.com/your-handle) | Email: your.email@example.com
 
 ## 🛠️ Tech Stack & Skills
 
@@ -40,13 +37,6 @@ Passionate about building decentralized applications, smart contracts, and scala
 
 ![Smart Contract Illustration](https://www.solulab.com/wp-content/uploads/2023/01/Smart-Contract-Development-Guide.jpg)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
 
 
 
